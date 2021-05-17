@@ -1,2 +1,0 @@
-# NeonLlamaFace.github.io
-Baboo
